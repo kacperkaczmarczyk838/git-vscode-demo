@@ -19,3 +19,5 @@
 - hit2
 
 - zadanie 
+
+-cos
