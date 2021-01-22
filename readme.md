@@ -17,3 +17,5 @@
 - hit
 
 - hit2
+
+- zadanie 
